@@ -1,5 +1,8 @@
 # text-voice-convertor.github.io
- 
+
+ Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features. 
+
+
 Hey Friends, This is the Web-based TEXT-To-Speech (TTS) convertor built using HTML, CSS and Javascript . it allows user to input text and convert it into speech using the browser's built in speech synthesis API.
 
 Features:
